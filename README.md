@@ -1,0 +1,1 @@
+# pierwsze_js_komentarze
